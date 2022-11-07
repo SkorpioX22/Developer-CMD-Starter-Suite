@@ -8,7 +8,7 @@ DCSS allows you to run basic system commands and scans with a click (or double-c
 
 They are all in BATCH format, so you can even automate these basic commands, and copy and paste their code into a bigger program!
 
-Official download link: https://drive.google.com/file/d/1qEjbMz1a_Pyg3kcdeJP52Z90Myk0TLIH/view?usp=share_link
+Alternative download link: https://drive.google.com/file/d/1qEjbMz1a_Pyg3kcdeJP52Z90Myk0TLIH/view?usp=share_link
 
 Note: This project is NOT complete. It has been released for feedback and more contributions, but NOT for full consumer use. If it is useful to you, please drop us your feedback at skorperxrad@outlook.com. [Don't spam. Please]
 
