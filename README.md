@@ -16,6 +16,8 @@ Download the code. You can only obtain tthe suite if you download the entire cod
 Run the BATCH files you want. If they need to be ran as Administrator, they will be marked "_admin".
 Each file will be named to what they do (obviously).
 
+=============================
+
 Extras:
 =============================
 
@@ -27,3 +29,4 @@ You can all contribute, but PLEASE do not mess up the repository. Please also pu
 
 All of the files in the DCSS are placed under the MIT Open Source License. Learn more here:
 https://opensource.org/licenses/MIT
+=============================
