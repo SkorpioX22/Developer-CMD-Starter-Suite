@@ -10,7 +10,7 @@ They are all in BATCH format, so you can even automate these basic commands, and
 
 Official download link: https://drive.google.com/file/d/1qEjbMz1a_Pyg3kcdeJP52Z90Myk0TLIH/view?usp=share_link
 
-Note: This project is NOT complete. It has been released for feedback and more contributions, but NOT for full consumer use. If it is useful to you, please comment on how it was good or how we can improve the DCSS Project!
+Note: This project is NOT complete. It has been released for feedback and more contributions, but NOT for full consumer use. If it is useful to you, please drop us your feedback at skorperxrad@outlook.com. [Don't spam. Please]
 
 You can all contribute, but PLEASE do not mess up the repository. Please also put simple but useful commands only.
 
