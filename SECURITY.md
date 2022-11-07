@@ -1,17 +1,12 @@
 # Security Policy
 
-## Supported Versions
+Even though this project is open source, we DO NOT ALLOW ANY EXPLOITATION OF ANY PART OF THE DCSS PROJECT, WETHER IN THE REPOSITORY OR ANY FILE IN THE DCSS.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Supported Versions
 
 | Version | Supported until |
 | BETA    | Further notice  |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Please report any vulnerability you see to skorperxrad@outlook.com. Your report wil be tremedously helpful, and may even save a major security breach.
