@@ -1,6 +1,6 @@
 # Developer-CMD-Starter-Suite
 
-Developer's CMD Starter Suite
+Developer CMD Starter Suite
 
 [DCSS]
 
