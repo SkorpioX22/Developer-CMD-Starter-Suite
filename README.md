@@ -8,5 +8,7 @@ DCSS allows you to run basic system commands and scans with a click (or double-c
 
 They are all in BATCH format, so you can even automate these basic commands, and copy and paste their code into a bigger program!
 
+Official download link: https://drive.google.com/file/d/1qEjbMz1a_Pyg3kcdeJP52Z90Myk0TLIH/view?usp=share_link
+
 All of the files in the DCSS are placed under the MIT Open Source License. Learn more here:
 https://opensource.org/licenses/MIT
