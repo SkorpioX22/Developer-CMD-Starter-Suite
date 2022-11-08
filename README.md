@@ -11,7 +11,7 @@ They are all in BATCH format, so you can even automate these basic commands, and
 Instuctions:
 =============================
 
-Download the code. You can only obtain tthe suite if you download the entire code, as the DCSS is NOT a software, but a suite of CMD commands.
+Download the source code. You can only obtain tthe suite if you download the entire code, as the DCSS is NOT a software, but a suite of CMD commands.
 
 Run the BATCH files you want. If they need to be ran as Administrator, they will be marked "_admin".
 Each file will be named to what they do (obviously).
