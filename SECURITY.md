@@ -4,8 +4,7 @@ Even though this project is open source, we DO NOT ALLOW ANY EXPLOITATION OF ANY
 
 ## Supported Versions
 
-| Version | Supported until |
-| BETA    | Further notice  |
+DCSS_beta_V0.1.x
 
 ## Reporting a Vulnerability
 
