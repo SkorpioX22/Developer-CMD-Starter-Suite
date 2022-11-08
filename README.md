@@ -20,7 +20,7 @@ Each file will be named to what they do (obviously).
 Extras:
 =============================
 
-Alternative download link: https://drive.google.com/file/d/1qEjbMz1a_Pyg3kcdeJP52Z90Myk0TLIH/view?usp=share_link
+Alternative download link: https://drive.google.com/file/d/1xZwHmZ9YZYP3btFLJh4hHcLefz_dUXfi/view?usp=sharing
 
 Note: This project is NOT complete. It has been released for feedback and more contributions, but NOT for full consumer use. If it is useful to you, please drop us your feedback at skorperxrad@outlook.com. [Don't spam. Please]
 
