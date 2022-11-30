@@ -2,6 +2,8 @@
 
 Developer CMD Starter Suite
 
+**NOTE! WE HAVE SUSPENDED DEVELOPMENT OF THE DCSS UNTIL FURTHER NOTICE**
+
 [DCSS]
 
 DCSS allows you to run basic system commands and scans with a click (or double-click) of a button. It includes a CHKDSK of your main drive (C:), an SFC quick scan, and many other features that help you get on your way without the delay of typing basic commands.
