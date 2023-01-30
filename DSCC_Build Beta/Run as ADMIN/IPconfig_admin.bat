@@ -1,0 +1,3 @@
+ipconfig
+
+cmd /k 

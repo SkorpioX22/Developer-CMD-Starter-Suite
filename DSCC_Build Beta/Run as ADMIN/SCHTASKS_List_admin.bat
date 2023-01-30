@@ -1,0 +1,3 @@
+SCHTASKS
+
+cmd /k
