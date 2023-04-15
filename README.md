@@ -2,7 +2,6 @@
 
 Developer CMD Starter Suite
 
-**NOTE! WE HAVE SUSPENDED DEVELOPMENT OF THE DCSS UNTIL FURTHER NOTICE**
 
 [DCSS]
 
@@ -10,7 +9,7 @@ DCSS allows you to run basic system commands and scans with a click (or double-c
 
 They are all in BATCH format, so you can even automate these basic commands, and copy and paste their code into a bigger program!
 
-Instuctions:
+Instructions:
 =============================
 
 Download the source code. You can only obtain tthe suite if you download the entire code, as the DCSS is NOT a software, but a suite of CMD commands.
