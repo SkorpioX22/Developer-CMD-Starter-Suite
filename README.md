@@ -14,7 +14,7 @@ Download the entire source code
 Run the BATCH files you want to execute. If any file needs administrator rights to run, it will be marked with "_admin".
 Each file is named after the command it executes.
 Extras
-https://drive.google.com/file/d/1xZwHmZ9YZYP3btFLJh4hHcLefz_dUXfi/view?usp=sharing
+
 
 Please note that the project is not yet complete and has been released for feedback and contributions. It is not intended for full consumer use. If you find DCSS useful, please provide your feedback by emailing skorperxrad@outlook.com. Please do not spam.
 
