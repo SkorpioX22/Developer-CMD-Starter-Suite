@@ -6,15 +6,18 @@ All commands in DCSS are in BATCH format, which makes it possible to automate th
 
 Instructions
 =================================
-To use DCSS, you need to download the source code as the suite is not a standalone software, but a collection of CMD commands.
+To use the latest version of the DCSS, you need to click on the LATEST RELEASE, and and click the DCSS zip file attached. 
+
+If you want to use older versions of the DCSS (BETA and 1.0.x), download their respective source code zip files attached in their releases.
 
 Here are the steps to use DCSS:
 
-Download the entire source code
+Download the respective ZIP file.
 Run the BATCH files you want to execute. If any file needs administrator rights to run, it will be marked with "_admin".
 Each file is named after the command it executes.
-Extras
 
+Extras
+=================================
 
 Please note that the project is not yet complete and has been released for feedback and contributions. It is not intended for full consumer use. If you find DCSS useful, please provide your feedback by emailing skorperxrad@outlook.com. Please do not spam.
 
