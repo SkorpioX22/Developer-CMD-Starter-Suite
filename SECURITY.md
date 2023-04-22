@@ -1,10 +1,13 @@
 # Security Policy
 
-Even though this project is open source, we DO NOT ALLOW ANY EXPLOITATION OF ANY PART OF THE DCSS PROJECT, WETHER IN THE REPOSITORY OR ANY FILE IN THE DCSS.
+Even though this project is open source, we DO NOT ALLOW ANY EXPLOITATION OF ANY PART OF THE DCSS PROJECT, WhETHER IN THE REPOSITORY OR ANY FILE IN THE DCSS.
 
 ## Supported Versions
 
-DCSS_beta_V0.1.x
+DCSS 1.0.X, 1.1.X, and 1.2.X
+
+##Unsupported Versions:
+All DCSS BETA versions (including v0.1.x)
 
 ## Reporting a Vulnerability
 
