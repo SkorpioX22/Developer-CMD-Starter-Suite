@@ -6,7 +6,7 @@ Even though this project is open source, we DO NOT ALLOW ANY EXPLOITATION OF ANY
 
 DCSS 1.0.X, 1.1.X, and 1.2.X
 
-##Unsupported Versions:
+## Unsupported Versions:
 All DCSS BETA versions (including v0.1.x)
 
 ## Reporting a Vulnerability
