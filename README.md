@@ -24,6 +24,3 @@ Please note that the project is not yet complete and has been released for feedb
 You can contribute to the project, but please avoid messing up the repository. Only include simple but useful commands.
 
 All files in DCSS are released under the MIT Open Source License. For more information, visit https://opensource.org/licenses/MIT.
-
-Archive of very first DCSS version here:
-https://drive.google.com/file/d/1xZwHmZ9YZYP3btFLJh4hHcLefz_dUXfi/view?usp=sharing
