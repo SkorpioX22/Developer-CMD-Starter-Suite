@@ -2,7 +2,7 @@ Developer CMD Starter Suite
 ==================================
 Developer CMD Starter Suite, also known as DCSS, is a suite of basic system commands and scans that can be executed with a single click or double-click of a button. The suite includes various features, such as a CHKDSK scan of your primary drive (C:), an SFC quick scan, and more, that eliminate the need for manually typing basic commands and help you get started quickly.
 
-All commands in DCSS are in BATCH format, which makes it possible to automate them and copy-paste their code into larger programs.
+All commands in DCSS are in BATCH format, which makes it possible to automate them.
 
 Instructions
 =================================
