@@ -6,7 +6,7 @@ All commands in DCSS are in BATCH format, which makes it possible to automate th
 
 Instructions
 =================================
-To use the latest version of the DCSS, you need to click on the LATEST RELEASE, and click the DCSS zip file attached. 
+To use the latest version of the DCSS, you need to click on the LATEST RELEASE, and click the DCSS zip file attached. If you encounter some problems you can download the source code for an older, stripped down version of DCSS that is confirmed stable.
 
 If you want to use older versions of the DCSS (BETA and 1.0.x), download their respective source code zip files attached in their releases.
 
