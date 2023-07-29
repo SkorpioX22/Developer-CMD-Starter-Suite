@@ -13,6 +13,8 @@ If you want to use older versions of the DCSS (BETA and 1.0.x), download their r
 Here are the steps to use DCSS:
 
 Download the respective ZIP file.
+From DCSS version 1.2.x, all BATCH files are now sorted in categories. You will need to navigate them before running the BATCH file commands.
+
 Run the BATCH files you want to execute. If any file needs administrator rights to run, it will be marked with "_admin".
 Each file is named after the command it executes.
 
