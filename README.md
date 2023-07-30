@@ -21,13 +21,15 @@ Each file is named after the command it executes.
 
 Instructions (GUI DEMO)
 =================================
-Run the GUI demo in its folder. Make sure you have Python 3.x and Tkinter installed. Click one of the three available commands to run from the GUI Demo: ASSOC, HELP, or HOSTNAME. We will add support for more commands soon. You may also wish to try the button that links back to this repository by pressing "My Github Reposity". This is just a rough DEMO of what a future GUI for the DCSS can look like. Comments and suggestions for the GUI demo, as with any aspect of the DCSS project, are always welcome.
+Run the GUI demo in its folder. Make sure you have Python 3.x and Tkinter installed. Click one of the three available commands to run from the GUI Demo: ASSOC, HELP, or HOSTNAME. We will add support for more commands soon. You may also wish to try the button that links back to this repository by pressing "My Github Repository.". 
+
+This is just a rough DEMO of what a future GUI for the DCSS can look like. Comments and suggestions for the GUI demo, as with any aspect of the DCSS project, are always welcome.
+
+The DEMO is planned to transition to be the main DCSS somewhere in version 3.0.x or 4.0.x. It is planned to feature all added commands up to that point and be categorized too. It is also planned to be in the form of an EXE file. (Using py-to-exe)
 
 Extras
 =================================
 
 Please note that the project is not yet complete and has been released for feedback and contributions. It is not intended for full consumer use. If you find DCSS useful, please provide your feedback by emailing skorperxrad@outlook.com. Please do not spam.
-
-You can contribute to the project, but please avoid messing up the repository. Only include simple but useful commands.
 
 All files in DCSS are released under the MIT Open Source License. For more information, visit https://opensource.org/licenses/MIT.
